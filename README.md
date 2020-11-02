@@ -1,16 +1,11 @@
-### Hi there 👋
+### Brian Evans
+In love with coding
 
-<!--
-**mrbrianevans/mrbrianevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Favourite language: PHP
+ - First language: Java
+ - Most recently learnt: NodeJS
+ - Most despised: Go
+ - Favourite IDE: IntelliJ
+ - Website: [brianevans.tech](https://brianevans.tech "My personal website")
+ 
+ ![Brian Evans](https://img.shields.io/badge/Brian-Evans-orange)
