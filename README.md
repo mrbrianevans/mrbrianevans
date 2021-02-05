@@ -1,9 +1,9 @@
 ### Brian Evans
 In love with coding
 
- - Favourite language: PHP
+ - Favourite language: JavaScript
  - First language: Java
- - Most recently learnt: NodeJS
+ - Most recently learnt: C
  - Most despised: Go
  - Favourite IDE: IntelliJ
  - Website: [brianevans.tech](https://brianevans.tech "My personal website")
