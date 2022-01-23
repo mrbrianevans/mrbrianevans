@@ -1,11 +1,10 @@
 ### Brian Evans
-In love with coding
+I love web development
 
- - Favourite language: JavaScript
+ - Favourite language: TypeScript
  - First language: Java
- - Most recently learnt: C
- - Most despised: Go
- - Favourite IDE: IntelliJ
+ - Currently learning: Go
+ - Favourite IDE: JetBrains IntelliJ
  - Website: [brianevans.tech](https://brianevans.tech "My personal website")
  
  ![Brian Evans](https://img.shields.io/badge/Brian-Evans-orange)
