@@ -1,10 +1,7 @@
 ### Brian Evans
 I love web development
-
  - Favourite language: TypeScript
- - First language: Java
  - Currently learning: Go
  - Favourite IDE: JetBrains IntelliJ
- - Website: [brianevans.tech](https://brianevans.tech "My personal website")
  
- ![Brian Evans](https://img.shields.io/badge/Brian-Evans-orange)
+ ![Brian Evans](https://img.shields.io/badge/Brian-Evans-orange) [![Time coding](https://wakatime.com/badge/user/f8dd9b3d-8b67-421e-8f3e-ab941b402e60.svg)](https://wakatime.com/@f8dd9b3d-8b67-421e-8f3e-ab941b402e60)
